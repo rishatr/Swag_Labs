@@ -3,7 +3,7 @@
 
 Testing authorization on the site https://www.saucedemo.com/
 
-For run use
+For run use:
 
 ```
 python test_authorization.py
