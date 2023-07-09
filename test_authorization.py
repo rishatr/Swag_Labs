@@ -46,4 +46,3 @@ def login(driver, username, password):
 driver = get_driver()
 open_page(driver, URL)
 login(driver, USERNAME, PASSWORD)
-time.sleep(5)
